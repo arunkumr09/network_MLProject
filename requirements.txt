@@ -1,3 +1,14 @@
 python-dotenv
 pandas 
 numpy
+scikit-learn
+pymongo
+certifi
+mlflow
+pyaml
+dagshub
+fastapi
+uvicorn
+python-multipart
+
+###-e .
